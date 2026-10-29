@@ -19,7 +19,9 @@
 <div align="center">
 
 <a href="https://github.com/XDavider/RiftBard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XDavider&repo=RiftBard&theme=tokyonight&border_color=f59e0b&title_color=f59e0b&icon_color=38bdf8" alt="RiftBard Pin" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=XDavider&repo=RiftBard&theme=tokyonight&border_color=f59e0b&title_color=f59e0b&icon_color=38bdf8" alt="RiftBard Pin" />
+</a>
+
 </a>
 
 <br/>
